@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pfpsBynCV55n57Pl//DEDmU4IaCd3GKNXoeg5hTXX/c=",
+  "Source": "StoredProcedure_CRUD",
+  "BasePath": "_content/StoredProcedure_CRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

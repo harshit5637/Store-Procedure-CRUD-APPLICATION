@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\storedprocedure_crud\\storedprocedure_crud\\controllers\\sptablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|solutionrelative:storedprocedure_crud\\controllers\\sptablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\storedprocedure_crud\\storedprocedure_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|solutionrelative:storedprocedure_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\storedprocedure_crud\\storedprocedure_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|solutionrelative:storedprocedure_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\storedprocedure_crud\\storedprocedure_crud\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|solutionrelative:storedprocedure_crud\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\storedprocedure_crud\\storedprocedure_crud\\storedprocedure_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|solutionrelative:storedprocedure_crud\\storedprocedure_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\storedprocedure_crud\\storedprocedure_crud\\storedprocedure_crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|solutionrelative:storedprocedure_crud\\storedprocedure_crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|c:\\users\\hmish\\documents\\trainingtechrbm\\storedprocedure_crud\\storedprocedure_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00511FB3-1261-4AF5-BF50-DAE8D36A36AF}|StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj|solutionrelative:storedprocedure_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoredProcedure_CRUD.http",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\StoredProcedure_CRUD.http",
+              "RelativeDocumentMoniker": "StoredProcedure_CRUD\\StoredProcedure_CRUD.http",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\StoredProcedure_CRUD.http",
+              "RelativeToolTip": "StoredProcedure_CRUD\\StoredProcedure_CRUD.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-13T04:42:23.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StoredProcedure_CRUD\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\Models\\Student.cs",
+              "RelativeToolTip": "StoredProcedure_CRUD\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:19:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoredProcedure_CRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj",
+              "RelativeDocumentMoniker": "StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj",
+              "RelativeToolTip": "StoredProcedure_CRUD\\StoredProcedure_CRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T10:18:25.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpTableController.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\Controllers\\SpTableController.cs",
+              "RelativeDocumentMoniker": "StoredProcedure_CRUD\\Controllers\\SpTableController.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\Controllers\\SpTableController.cs",
+              "RelativeToolTip": "StoredProcedure_CRUD\\Controllers\\SpTableController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBwAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:16:54.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\DbContext\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "StoredProcedure_CRUD\\DbContext\\ApplicationDbcontext.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\DbContext\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "StoredProcedure_CRUD\\DbContext\\ApplicationDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:18:34.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "StoredProcedure_CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\appsettings.json",
+              "RelativeToolTip": "StoredProcedure_CRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:31:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "StoredProcedure_CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\StoredProcedure_CRUD\\StoredProcedure_CRUD\\Program.cs",
+              "RelativeToolTip": "StoredProcedure_CRUD\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:28:56.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

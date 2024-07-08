@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\StoredProcedure_CRUD.props" />
+</Project>
